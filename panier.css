@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+    border: 20px;
+    margin: 20px;
+    height: 120px;
+    width: auto;
+    border: 2px solid rgb(26, 21, 75);
+}
+#panier{
+    text-align: center;
+}
+h1{
+    font-family : "Playwrite RO", cursive ;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#crip{
+    text-align: center;
+}
+article{
+    background: rgb(217, 151, 19);
+    text-align: center;
+    height: auto;
+}
